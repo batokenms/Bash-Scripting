@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if server is synchronized to UTC time
-if timedatectl status | grep "Time zone"; then
+if timedatectl status | grep "Time zone"&>/dev/null; then
     echo "Server is synchronized to UTC time."
 
     # Change time zone to Eastern Time
