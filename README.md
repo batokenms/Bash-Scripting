@@ -1,4 +1,5 @@
 # Bash-Scripting
+![image](https://user-images.githubusercontent.com/88409463/235396223-4b63a3a3-efc4-4f79-a569-df0a1758706e.png)
 
 No problem! Let me break down the command for you:
 
