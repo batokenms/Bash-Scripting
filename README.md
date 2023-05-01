@@ -1,5 +1,4 @@
 # Bash-Scripting
-![image](https://user-images.githubusercontent.com/88409463/235396223-4b63a3a3-efc4-4f79-a569-df0a1758706e.png)
 
 No problem! Let me break down the command for you:
 
@@ -23,3 +22,8 @@ command -v docker - This command checks if the Docker command is available by se
 
 
 So, putting it all together, the entire command checks whether Docker is installed on the system. If it is not found, the command following then will be executed. If Docker is found, the command following then will be skipped. The command is written in a way that the output is suppressed and only the exit status is considered.
+
+# For loop 
+
+![image](https://user-images.githubusercontent.com/88409463/235396277-cb7f3e2a-6798-4b91-8579-18cec156118c.png)
+
